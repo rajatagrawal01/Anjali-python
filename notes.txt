@@ -1,0 +1,11 @@
+Data types-
+
+    1123 - number
+    ajka &%$*&% - string
+    true false - boolen
+
+    int ,float,string,bool
+Variable
+varname=value
+
+= assinging operator
