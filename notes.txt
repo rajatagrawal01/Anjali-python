@@ -5,7 +5,12 @@ Data types-
     true false - boolen
 
     int ,float,string,bool
-Variable
+Variable-container 
 varname=value
 
 = assinging operator
+
+Operators:
+Arithematic Operators
++,-,*,/,%
+23+34
