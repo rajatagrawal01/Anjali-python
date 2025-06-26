@@ -14,3 +14,26 @@ Operators:
 Arithematic Operators
 +,-,*,/,%
 23+34
+
+
+563 / 10 = 56, rem = 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
