@@ -44,6 +44,8 @@
 #     print(i)
 #     i+=1
 
+# for loop requires a rang (start and end)
+# while loop works untill condition is true(may be always)
 
 # num = 11
 # for i in range(2,num):
@@ -54,7 +56,13 @@
 #         print(num , ": is prime")
 #         break
 
-
-
 # 1,2,3,4,5,6
 # 0,1,2,3,4,5
+
+# while True:
+#     password = input("Enter password: ")
+#     if password =="password123":
+#         print("Welcome")
+#         break
+#     else:
+#         print("Wrong Password,Enter Again")
