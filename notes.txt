@@ -19,6 +19,17 @@ Arithematic Operators
 563 / 10 = 56, rem = 3
 
 
+234
+
+temp=4
+remainder=3
+3<4
+
+temp=rema
+
+234235
+4<2
+
 
 
 
