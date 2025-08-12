@@ -41,3 +41,15 @@
 #         print("Welcome")
 #     case "Bye" | "Tata" | "See ya" | "asta lavista" | "sayonara" | "Jao":
 #         print("Bye")
+
+
+# def matching(Tuple):
+#     match Tuple:
+#         case (X , Y, Z) if Y == X*2:
+#             if(Y>10 and Z>Y):
+#                 return f"Matchd Y = {Y} is twice of X and greater than 10= {X}"
+#             elif(Y<10 and Z>Y):
+#                 return f"Matchd Y = {Y} is twice of X and less than 10= {X}"
+#         case _:
+#             print("The entered value of Y is not twice")
+# matching((5, 180, 15))
