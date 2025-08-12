@@ -4,7 +4,7 @@ import sys
 demo_List= [1,2,3,"Indore","Dewas"]
 
 demo_tuple=(1,2,3,"Indore","Dewas","MHOW")
-
+print("First element",demo_tuple[0])
 # print("List Before: ",demo_List)
 # print("Tuple Before: ",demo_tuple)
 # demo_List[0]=30
