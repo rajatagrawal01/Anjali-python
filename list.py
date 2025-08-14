@@ -26,7 +26,7 @@ print("Sum of all elements",sum(c))
 c.sort()
 print("Ascending",c)
 c.sort(reverse=True)
-print("Descending",c)
+print("Descending",c)   
 
 
 # c=[0,10,2,3,4,5,2,7,664,9,1]
