@@ -40,6 +40,21 @@ print("Descending",c)
 # print("Min value using min method",min(c))
 
 
+a=[1,2,3,4,5] # 1-D List
+
+b=[
+    [1,2,3,4,5],
+    ["a","b","c","d"],
+    ["!","@","#","$"]
+] # 2-D List
+
+c=[
+    [1,2,3,4,5],
+    ["a","b","c","d"],
+    ["!","@","#","$",
+     ["Alpha","Beta","Gamma"]
+    ]
+] # 3-D List
 
 
 

@@ -16,3 +16,19 @@ print(timeit.timeit('(1,2,3,"Indore","Dewas")'))
 
 print(sys.getsizeof(demo_List))
 print(sys.getsizeof(demo_tuple))
+
+a=(1,2,3,4,5) # 1-D tuple
+
+b=(
+    (1,2,3,4,5),
+    ("a","b","c","d"),
+    ("!","@","#","$")
+) # 2-D tuple
+
+c=(
+    (1,2,3,4,5),
+    ("a","b","c","d"),
+    ("!","@","#","$",
+     ("Alpha","Beta","Gamma")
+    )
+) # 3-D tuple
