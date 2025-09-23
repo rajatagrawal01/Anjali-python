@@ -12,13 +12,57 @@
 
 # def addition(a,b):
 #     return a+b
+# def function_name(parameters/params):
+#     Function logic
+#     return result
 
-def evenOddNo(a):
-    return a%2
 
-c=evenOddNo(2)
 
-if(c==0):
-    print("Even")
-else:
-    print("Odd")
+
+# def evenOdd(a):
+#     if (a%2==0):
+#         print("Number is even")
+#     else:
+#         print("Number is odd")
+
+# evenOdd(4)
+# evenOdd(5)
+# evenOdd(67)
+# evenOdd(89)
+# evenOdd(45)
+# evenOdd(35)
+
+
+def multiplication(s,r,t):
+    return s*r*t
+
+SI=multiplication(100,5,10)/100
+CI=multiplication(100,5,10)*100
+DI=multiplication(100,5,10)+100
+EI=multiplication(100,5,10)-100
+
+
+print("Simple interest is ", SI)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
