@@ -1,0 +1,13 @@
+# for i in range(5):
+#     print(i)
+# else:
+#     print("Loop finished")
+
+
+for i in range(5):
+    print(i)
+    if i==5:
+        print("Number found")
+        break
+else:
+    print("Loop finished")
