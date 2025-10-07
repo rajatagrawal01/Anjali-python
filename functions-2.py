@@ -1,15 +1,18 @@
 # def likho():
 #     print ("Hello World")
-
 # likho()
 
-def greeting(name,age):
-    print(f"Hello {name} , your age is {age}")
+# def addition(a,b):
+#     return a+b
+# x=addition(4,5)
+# print(x)
+
+# def greeting(name,age):
+#     print(f"Hello {name} , your age is {age}")
 
 # greeting("Anjali",24)
 # greeting("Rajat",25)
 # greeting("Chetan",26)
-
 
 # print("without keyword")
 # greeting(27,"Anjali")
@@ -22,7 +25,23 @@ def greeting(name,age):
 
 # hello()
 
-def addition(*args):
-    print(sum(args))
+# def addition(*args):
+#     print(sum(args))
 
-addition(12,13,14,15,16,17)
+# addition(12,13,14,15)
+
+
+
+# def stu_info(**kwargs):
+#     for key,value in kwargs.items():
+#         print(f"{key} : {value}")
+
+# stu_info(Name="Anjali",Age=23,City="Indore",Section="CSE",fees=20000)
+
+x=50 #Global
+def scope():
+    x=24 #Local /Temp variable
+    print("Inside Function , value of x is : ",x)
+
+scope()
+print("outside Function , value of x is : ",x)
