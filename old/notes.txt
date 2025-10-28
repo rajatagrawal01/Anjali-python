@@ -13,37 +13,6 @@ varname=value
 Operators:
 Arithematic Operators
 +,-,*,/,%
-23+34
-
-
-563 / 10 = 56, rem = 3
-
-
-234
-
-temp=4
-remainder=3
-3<4
-
-temp=rema
-
-234235
-4<2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 52 =7, 7 is prime, result.append(i)
@@ -71,16 +40,3 @@ list - [],mutable,indexed
 tuple - (),immutable,indexed
 set - {}, mutable, unique values,un-indexed
 dictionary - key-value,ordered(unordered-before python-3.7),mutable
-
-
-
-
-
-
-
-
-
-
-
-
-

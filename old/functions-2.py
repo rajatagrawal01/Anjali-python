@@ -23,7 +23,7 @@
 # def hello(name="Guest"):
 #     print("Hello",name)
 
-# hello()
+# hello("Anjali")
 
 # def addition(*args):
 #     print(sum(args))
@@ -38,10 +38,13 @@
 
 # stu_info(Name="Anjali",Age=23,City="Indore",Section="CSE",fees=20000)
 
+
 x=50 #Global
 def scope():
     x=24 #Local /Temp variable
     print("Inside Function , value of x is : ",x)
 
 scope()
-print("outside Function , value of x is : ",x)
+# print("outside Function , value of x is : ",x)
+
+

@@ -2,6 +2,7 @@
 #     function body
 #     return result
 
+
 # function_name = Name of the function
 # parameters = inputs required in a function
 # Body = logic code of a function
