@@ -20,11 +20,11 @@
 
 
 
-# def evenOdd(a):
-#     if (a%2==0):
-#         print("Number is even")
-#     else:
-#         print("Number is odd")
+def evenOdd(a):
+    if (a%2==0):
+        print("Number is even")
+    else:
+        print("Number is odd")
 
 # evenOdd(4)
 # evenOdd(5)
@@ -34,16 +34,16 @@
 # evenOdd(35)
 
 
-def multiplication(s,r,t):
-    return s*r*t
+# def multiplication(s,r,t):
+#     return s*r*t
 
-SI=multiplication(100,5,10)/100
-CI=multiplication(100,5,10)*100
-DI=multiplication(100,5,10)+100
-EI=multiplication(100,5,10)-100
+# SI=multiplication(100,5,10)/100
+# CI=multiplication(100,5,10)*100
+# DI=multiplication(100,5,10)+100
+# EI=multiplication(100,5,10)-100
 
 
-print("Simple interest is ", SI)
+# print("Simple interest is ", SI)
 
 
 
