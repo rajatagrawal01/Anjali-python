@@ -1,3 +1,3 @@
-import calc
+import customModule
 
-calc.calculator(2,3)
+customModule.calculator(2,3)
