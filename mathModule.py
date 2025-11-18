@@ -8,8 +8,18 @@ import math
 
 # print(math.pi)
 
-radius=25
+# radius=25
 
-area=(math.pi)*(math.pow(radius,2))
+# area=(math.pi)*(math.pow(radius,2))
 
-print("Area: ",area)
+# print("Area: ",area)
+
+# print(math.exp(10))
+
+# fact=math.factorial(5)
+# print("The factorial of 5 is : ",fact)
+
+# remainder=23%2
+remainder=math.fmod(23,2)
+
+print(remainder)
