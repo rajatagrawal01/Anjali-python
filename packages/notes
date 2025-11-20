@@ -1,0 +1,3 @@
+logic -> function -> Module -> Package
+
+pip install package_name
